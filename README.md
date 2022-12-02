@@ -28,6 +28,7 @@ As the name suggests this extension will allow you to block any endpoint with a 
 > warning: This will only block GET requests! but the script should be easy to modify to any METHOD you want (making it configurable seemed like a mess)
 
 To block `/server/info` from exposing info when using Directus API only:
+
 **ENV**
 ```
 BLOCKED_ENDPOINTS_PATHS="/server/info"
