@@ -1,6 +1,7 @@
 {
 	"name": "directus-extension-block-endpoints",
 	"version": "1.0.0",
+	"author": "brainslug",
 	"keywords": [
 		"directus",
 		"directus-extension",
@@ -20,5 +21,10 @@
 		"@directus/extensions-sdk": "9.22.1",
 		"@types/node": "^18.11.18",
 		"typescript": "^4.9.4"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/br41nslug/directus-extension-block-endpoints.git"
+	},
+	"license": "MIT"
 }

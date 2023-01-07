@@ -4,6 +4,11 @@ As the name suggests this extension will allow you to block any endpoint with a 
 > Tested with Directus 9.22.1
 
 ## Installation
+
+The package is published to npm:
+`npm install directus-extension-block-endpoints`
+
+**Manual Installation**
 - Download or fork the repository
 - Install the requirements\
   `npm install`
