@@ -1,7 +1,7 @@
 # Directus Extension Block Endpoints
 As the name suggests this extension will allow you to block any endpoint with a custom message.
 
-> Tested with Directus 9.21.2
+> Tested with Directus 9.22.1
 
 ## Installation
 - Download or fork the repository
