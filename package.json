@@ -1,6 +1,6 @@
 {
 	"name": "directus-extension-block-endpoints",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"author": "brainslug",
 	"keywords": [
 		"directus",
@@ -9,18 +9,18 @@
 	],
 	"directus:extension": {
 		"type": "hook",
-		"path": "dist/index.js",
+		"path": "dist/index.cjs",
 		"source": "src/index.ts",
-		"host": "^9.23.4"
+		"host": "^10.0.0"
 	},
 	"scripts": {
 		"build": "directus-extension build",
 		"dev": "directus-extension build -w --no-minify"
 	},
 	"devDependencies": {
-		"@directus/extensions-sdk": "9.23.4",
+		"@directus/extensions-sdk": "10.0.0",
 		"@types/node": "^18.15.10",
-		"typescript": "^5.0.2"
+		"typescript": "^5.0.4"
 	},
 	"repository": {
 		"type": "git",
