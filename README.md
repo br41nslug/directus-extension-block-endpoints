@@ -1,7 +1,7 @@
 # Directus Extension Block Endpoints
 As the name suggests this extension will allow you to block any endpoint with a custom message.
 
-> Tested with Directus 10.0.0
+> Tested with Directus 10.1.0
 
 > Note: blocking `/server/info` seems to break the app in > 9.23.1
 ## Installation
