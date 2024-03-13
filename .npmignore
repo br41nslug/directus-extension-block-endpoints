@@ -1,0 +1,6 @@
+node_modules
+src
+.gitignore
+data.db
+docker-compose.yml
+tsconfig.json
